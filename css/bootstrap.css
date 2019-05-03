@@ -1568,6 +1568,7 @@ pre code {
 .table-borderless tbody + tbody {
   border: 0;
   float: right;
+  margin-right: 250px;
 }
 
 .table-striped tbody tr:nth-of-type(odd) {
@@ -9836,6 +9837,7 @@ button.bg-dark:focus {
 
 .font-weight-light {
   font-weight: 300 !important;
+  font-size: 16px;
 }
 
 .font-weight-lighter {
@@ -9844,10 +9846,12 @@ button.bg-dark:focus {
 
 .font-weight-normal {
   font-weight: 400 !important;
+  font-size: 24px;
 }
 
 .font-weight-bold {
   font-weight: 700 !important;
+  font-size: 24px;
 }
 
 .font-weight-bolder {
